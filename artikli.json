@@ -1,0 +1,46 @@
+[{
+    "id": "1",
+    "main_skus": "1000",
+    "related_skus": "1000_1 1000_2",
+    "regular_price_si": "20.90",
+    "sale_price_si": "15.90",
+    "regular_price_hr": "21.90",
+    "sale_price_hr": "16.90"
+  },
+  {
+    "id": "2",
+    "main_skus": "1001",
+    "related_skus": "1001_1 1001_2",
+    "regular_price_si": "20.90",
+    "sale_price_si": "15.90",
+    "regular_price_hr": "21.90",
+    "sale_price_hr": "16.90"
+  },
+  {
+    "id": "4",
+    "main_skus": "1002",
+    "related_skus": "",
+    "regular_price_si": "25.90",
+    "sale_price_si": "19.90",
+    "regular_price_hr": "26.90",
+    "sale_price_hr": "19.90"
+  },
+  {
+    "id": "5",
+    "main_skus": "1003",
+    "related_skus": "",
+    "regular_price_si": "20.90",
+    "sale_price_si": "15.90",
+    "regular_price_hr": "21.90",
+    "sale_price_hr": "16.90"
+  },
+  {
+    "id": "6",
+    "main_skus": "1004",
+    "related_skus": "",
+    "regular_price_si": "20.90",
+    "sale_price_si": null,
+    "regular_price_hr": "21.90",
+    "sale_price_hr": null
+  }
+]
